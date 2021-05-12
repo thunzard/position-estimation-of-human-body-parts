@@ -1,5 +1,5 @@
 # position-estimation-of-human-body-parts
-All the body parts of human body be monitored using Computer Vision. This is a mini project of mine where I used Opencv pose and mediapie, to estimate the position of each body part of a human body and track it.
+All the body parts of human body be monitored using Computer Vision. This is a mini project of mine where I used Opencv pose and mediapipe, to estimate the position of each body part of a human body and track it.
 
 # How to Implement it at your own syatem
 
@@ -11,6 +11,7 @@ All the body parts of human body be monitored using Computer Vision. This is a m
 * Then you open the posemodule.py file in pycharm and install libraries given in the code
 * Edit the name of your video file in place of video.mp4 in the code
 * run the program and see the output.
+* If you want to tract any other body part check the mediapipe.png over there number are given for each body part. Change the number in the code acordingly.
 * If you want to see the basic structure of the program, open jupyter lab from anaconda promt inside your project file.
 * Over there examine the code of and the logic of the program in pose_estimation.ipynb.
 * For any queries or issues mention it in the issue section of the repository.
